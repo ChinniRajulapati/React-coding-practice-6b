@@ -1,0 +1,18 @@
+.user-card-container {
+  display: flex;
+  flex-direction: column;
+  height: 150px;
+  width: 160px;
+  list-style-type: none;
+  justify-content: flex-start;
+}
+.image {
+  border-radius: 10px;
+  height: 70px;
+  width: 100px;
+}
+.names {
+  font-size: 13px;
+  font-family: 'Roboto';
+  color: #0f172a;
+}
